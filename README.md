@@ -14,7 +14,7 @@ I'm on an exciting journey to become a full stack developer, currently building 
 
 Right now, I'm focused on mastering the fundamentals of web development. I believe in building a strong foundation before moving to frameworks and libraries. My goal is to understand how things work under the hood.
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
 - Build 5+ practical projects to solidify my skills
 - Contribute to open source projects
